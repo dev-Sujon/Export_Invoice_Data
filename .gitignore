@@ -1,1 +1,2 @@
+# Ignore local environment keys and secrets
 .env
