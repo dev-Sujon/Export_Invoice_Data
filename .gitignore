@@ -1,2 +1,4 @@
 # Ignore local environment keys and secrets
 .env
+.env.*
+!.env.example
